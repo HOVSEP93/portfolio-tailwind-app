@@ -9,7 +9,7 @@
 ![image!](./public/screen/three.jpg)
 
 fixed navbar problem
-<nav className="w-full   bg-white z-10 dark:bg-slate-900">
+w-full  bg-white z-10 dark:bg-slate-900
 
 <br> <h2>technology i use here:</h2>
 
